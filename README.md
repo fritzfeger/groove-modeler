@@ -16,6 +16,4 @@ Install [Sonic Pi](https://github.com/samaaron/sonic-pi "Sonic Pi"), copy the co
 
 Feel invited! 
 
-* If you have an idea, please open an [issue](https://github.com/fritzfeger/groove-modeler/issues)
-* Create a feature branch go ahead and develop 
 * [License](https://github.com/fritzfeger/groove-modeler/blob/master/LICENSE)
