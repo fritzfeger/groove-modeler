@@ -16,4 +16,4 @@ Install [Sonic Pi](https://github.com/samaaron/sonic-pi "Sonic Pi"), copy the co
 
 Feel invited! 
 
-[License](https://github.com/fritzfeger/groove-modeler/blob/master/LICENSE)
+[License](https://github.com/fritzfeger/groove-modeler/blob/master/LICENSE).
