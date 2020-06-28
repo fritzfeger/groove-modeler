@@ -1,6 +1,6 @@
 # Groove Modeler
 
-Generate rhythmic feel by manipulating laid back (behind the beat or ahead of), soft to hard [swing](https://en.wikipedia.org/wiki/Swing_(jazz_performance_style)), velocity and amplification, tight to drunk precision, random deviation/error and other parameters relevant to the creation of [groove](https://en.wikipedia.org/wiki/Groove_(music)).
+Generate rhythmic feel by manipulating laid back (behind the beat or ahead of), soft to hard [swing](https://en.wikipedia.org/wiki/Swing_(jazz_performance_style)), velocity and amplification, tight to drunk precision, random deviation/error and other parameters relevant to the creation of [groove](https://en.wikipedia.org/wiki/Groove_(music)). More on the [project homepage](https://github.com/fritzfeger/groove-modeler-website).
 
 For the time being the project conisists in [Sonic Pi](https://github.com/samaaron/sonic-pi "Sonic Pi") prototypes exploring ways to create grooves with parameterized timing.
 
